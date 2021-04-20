@@ -1,0 +1,7 @@
+{
+    "git.enableSmartCommit": true,
+    "workbench.colorTheme": "Abyss",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "php.executablePath": "⁨/Applications/XAMPP/xamppfiles/bin/php-8.0.1",
+}
